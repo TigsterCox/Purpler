@@ -6,7 +6,7 @@ the current QMK firmware is built for the *BODGED* PCB whereas the KiCad files a
     <img src="Images/Keyboard.png"/>
 </p>
 
-Its a 72Key QWERTY UK ISO build based off of the Durgod Hades 69 ISO
+Its a 71 Key QWERTY UK ISO build based off of the Durgod Hades 69 ISO
 my build uses AKKO Lavender Purple V3's and a generic keycap set from aliex
 The RP2040 is a WEACT rpi 2040 as it is also purple (i think you get the theme here)
 I use m2x6mm screws that are threaded into plastic, tho you can also adjust it for heatsets and shorter screws (which i plan on doing if i ever do a rebuild)
