@@ -3,7 +3,7 @@ I do NOT reccomend you attempt building it
 the current QMK firmware is built for the *BODGED* PCB whereas the KiCad files are for a *FIXED* PCB though it shouldnt be too hard of a fix
 
 <p align="center">
-    <img src="images/Keyboard.png"/>
+    <img src="Images/Keyboard.png"/>
 </p>
 
 Its a 72Key QWERTY UK ISO build based off of the Durgod Hades 69 ISO
